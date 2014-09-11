@@ -1,0 +1,115 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:special
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:pyth
+EELAYER 24 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L 2PIN_SCREWTERMINAL CON1
+U 1 1 5411B85A
+P 3550 3300
+F 0 "CON1" H 3350 2850 60  0000 C CNN
+F 1 "2PIN_SCREWTERMINAL" V 3050 3350 60  0000 C CNN
+F 2 "" H 3550 3300 60  0000 C CNN
+F 3 "" H 3550 3300 60  0000 C CNN
+	1    3550 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L 2PIN_SCREWTERMINAL CON2
+U 1 1 5411B86E
+P 3550 4350
+F 0 "CON2" H 3350 3900 60  0000 C CNN
+F 1 "2PIN_SCREWTERMINAL" V 3050 4400 60  0000 C CNN
+F 2 "" H 3550 4350 60  0000 C CNN
+F 3 "" H 3550 4350 60  0000 C CNN
+	1    3550 4350
+	1    0    0    -1  
+$EndComp
+$Comp
+L 2PIN_SCREWTERMINAL CON3
+U 1 1 5411B882
+P 3550 5400
+F 0 "CON3" H 3350 4950 60  0000 C CNN
+F 1 "2PIN_SCREWTERMINAL" V 3050 5450 60  0000 C CNN
+F 2 "" H 3550 5400 60  0000 C CNN
+F 3 "" H 3550 5400 60  0000 C CNN
+	1    3550 5400
+	1    0    0    -1  
+$EndComp
+$Comp
+L 2PIN_SCREWTERMINAL CON4
+U 1 1 5411B896
+P 3550 6400
+F 0 "CON4" H 3350 5950 60  0000 C CNN
+F 1 "2PIN_SCREWTERMINAL" V 3050 6450 60  0000 C CNN
+F 2 "" H 3550 6400 60  0000 C CNN
+F 3 "" H 3550 6400 60  0000 C CNN
+	1    3550 6400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3650 6100 3950 6100
+Wire Wire Line
+	3950 6100 3950 3000
+Wire Wire Line
+	3950 3000 3650 3000
+Wire Wire Line
+	3650 4050 3950 4050
+Connection ~ 3950 4050
+Wire Wire Line
+	3650 5100 3950 5100
+Connection ~ 3950 5100
+Wire Wire Line
+	3650 6600 4200 6600
+Wire Wire Line
+	4200 6600 4200 3500
+Wire Wire Line
+	4200 3500 3650 3500
+Wire Wire Line
+	3650 4550 4200 4550
+Connection ~ 4200 4550
+Wire Wire Line
+	3650 5600 4200 5600
+Connection ~ 4200 5600
+$EndSCHEMATC
