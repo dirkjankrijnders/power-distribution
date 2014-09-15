@@ -1,0 +1,73 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Mon 15 Sep 2014 03:34:00 PM CEST
+
+BeginCmp
+TimeStamp = /5411B85A;
+Reference = CON1;
+ValeurCmp = 2PIN_SCREWTERMINAL;
+IdModule  = Pyth_Connectors:2PIN_Screw_Block;
+EndCmp
+
+BeginCmp
+TimeStamp = /5411B86E;
+Reference = CON2;
+ValeurCmp = 2PIN_SCREWTERMINAL;
+IdModule  = Pyth_Connectors:2PIN_Screw_Block;
+EndCmp
+
+BeginCmp
+TimeStamp = /5411B882;
+Reference = CON3;
+ValeurCmp = 2PIN_SCREWTERMINAL;
+IdModule  = Pyth_Connectors:2PIN_Screw_Block;
+EndCmp
+
+BeginCmp
+TimeStamp = /5411B896;
+Reference = CON4;
+ValeurCmp = 2PIN_SCREWTERMINAL;
+IdModule  = Pyth_Connectors:2PIN_Screw_Block;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416EE7E;
+Reference = CON5;
+ValeurCmp = 2PIN_SCREWTERMINAL;
+IdModule  = Pyth_Connectors:2PIN_Screw_Block;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416EF02;
+Reference = CON6;
+ValeurCmp = 2PIN_SCREWTERMINAL;
+IdModule  = Pyth_Connectors:2PIN_Screw_Block;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416F0DF;
+Reference = M1;
+ValeurCmp = Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416F10E;
+Reference = M2;
+ValeurCmp = Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416F227;
+Reference = M3;
+ValeurCmp = Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416F260;
+Reference = M4;
+ValeurCmp = Mounting_hole;
+IdModule  = Mounting_Holes:MountingHole_3mm;
+EndCmp
+
+EndListe
