@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Mon 15 Sep 2014 03:34:00 PM CEST
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-product   date = Mon 15 Sep 2014 03:39:50 PM CEST
 
 BeginCmp
 TimeStamp = /5411B85A;
@@ -40,6 +40,20 @@ TimeStamp = /5416EF02;
 Reference = CON6;
 ValeurCmp = 2PIN_SCREWTERMINAL;
 IdModule  = Pyth_Connectors:2PIN_Screw_Block;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416F67E;
+Reference = JP1;
+ValeurCmp = JUMPER;
+IdModule  = Connect:SIL-2;
+EndCmp
+
+BeginCmp
+TimeStamp = /5416F6C7;
+Reference = JP2;
+ValeurCmp = JUMPER;
+IdModule  = Connect:SIL-2;
 EndCmp
 
 BeginCmp
